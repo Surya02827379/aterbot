@@ -1,7 +1,7 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
+		"host": "add.aternos.org/ha70500",
+		"port": "52697",
 		"username": "Please enter the bot's username you want"
 	},
 	
